@@ -33,7 +33,7 @@ const Home = () => {
         </div>
 
         <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
-          <h2 className="text-3xl font-bold text-gray-800 mb-4">Welcome to Bucket List App</h2>
+          <h2 className="text-3xl font-bold text-gray-800 mb-4">its just a demo to test my profile part</h2>
           <p className="text-gray-600 mb-6">Your personal goals and dreams tracker</p>
           <Link 
             to="/profile"
